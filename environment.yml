@@ -7,3 +7,6 @@ dependencies:
   - numpy
   - matplotlib
   - pytorch
+  - pandas
+  - statsmodels
+  - seaborn
