@@ -1,0 +1,9 @@
+name: Multi-Agent-RL-for-Liquidation
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pytorch
